@@ -2,10 +2,6 @@
 
 This is a simple web-based tool for checking the validity of credit card numbers. The tool is built using HTML, CSS, and Bootstrap for the front-end, and PHP for the back-end.
 
-### 🍥 Similar :
-
-[KE1-CC-CHECKER](https://github.com/OshekharO/KE1-CC-CHECKER)
-
 ### ✨ Features :
 
 • Check the validity of credit card number
@@ -32,12 +28,8 @@ Note: You can use any hosting.
 
 - This is Just For Educational Purpose.
 
-- DO NOT Sell this Script, This is 100% Free
-
+  
 ## 🤗 Contact Me :
-
-
-• For any Support About Script contact [issues](https://github.com/OshekharO/MASS-CC-CHECKER/issues/new)
 
 ---
 
